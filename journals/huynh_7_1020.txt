@@ -1,0 +1,18 @@
+What is a disk image? A copy of whatever data you have at the time of creation.
+
+What is the command to make a disk image? The command is dd if=dev/zero bs=1M
+ count=40000 >> diskimage.img
+
+What is a disk partition? A hard disk partition is a defined storage space
+on a hard drive. 
+
+How many disk partitions are in a disk image? It can depend on what you want
+to copy. 
+
+What difficulties does this pose if any? The size of the amount of partitions
+can be difficult to deal with especially if you make a disk image of all
+of your computer files.
+
+What steps must you take to work with this? The step you must take to work 
+with this is to only copy the data most important to you so the disk size
+isn't overbearing.
