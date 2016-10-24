@@ -1,0 +1,431 @@
+    1  export PS1="[\u@\h:\w]>\$ "
+    2  clear
+    3  exit
+    4  aptitude update
+    5  apt-get update && apt-get install aptitude
+    6  aptitude install htop
+    7  cat /etc/apt/sources.list
+    8  htop
+    9  apt-cashe search terminal
+   10  apt-cache search terminal
+   11  apt-cache search terminal | less
+   12  shutdown -h now
+   13  apt-get update
+   14  apt-get update -y
+   15  apt-get dist-upgrade -y
+   16  apt-get update
+   17  apt-get dist-upgrade -y
+   18  apt-get install linux-headers-$(uname -r) -y
+   19  cp /media/cdrom/VBoxLinuxAdditions.run /root/Desktop/
+   20  apt-get install linux-headers-$(uname -r)
+   21  aptitude update
+   22  uname -a
+   23  reboot
+   24  ls /media/cdrom1/
+   25  uname -a
+   26  ls -rt /media/
+   27  cp  /media/cdrom/VBoxLinuxAdditions.run .
+   28  chmod +x VBoxLinuxAdditions.run 
+   29  ./VBoxLinuxAdditions.run 
+   30  shutdown -r now
+   31  ls -rt
+   32  ls -rt /media/
+   33  mkdir -p /mnt/analysis
+   34  cp /media/sf_digitalforensics/images/newfloppy.img /mnt/analysis
+   35  cp /media/sf_digitalforensics/images/newfloppy.img 
+   36  cp /media/sf_digitalforensics/images/newfloppy.img /images
+   37  sha1sum newfloppy.img
+   38  ls -rt
+   39  uname -a
+   40  mkdir images
+   41  ./VBoxLinuxAdditions.run 
+   42  shutdown -r now
+   43  ls -rt /media/
+   44  ls -rt
+   45  7
+   46  667
+   47  mkdir -p /root/evid
+   48  mkdir -p /root/evid/
+   49  mkdir -p /mnt/analysis/
+   50  sha1sum newfloppy.img
+   51  sha1sum newfloppy.dd
+   52  ls -rt
+   53  ls -rt /media/
+   54  train
+   55  sl
+   56  ls /media/sf_digitalforensics/images/newfloppy.img 
+   57  mkdir -p /root/evid
+   58  mkdir -p /mnt/analysis
+   59  sha1sum /media/sf_digitalforensics/images/newfloppy.img 
+   60  mount -t ext2 -o ro,loop newfloppy.dd /mnt/analysis/
+   61  mount -t ext2 -o ro,loop newfloppy.dd /mnt/analysis
+   62  mount -t ext2 -o ro,loop newfloppy.dd /mnt/analysis/
+   63  mount -t ext2 -o ro,loop /media/sf_digitalforensics/images/newfloppy.img 
+   64  mount -t ext2 -o ro,loop newfloppy.dd /media/sf_digitalforensics/images/newfloppy.img 
+   65  mount -t ext2 -o ro,loop newfloppy.dd /media/sf_digitalforensics/images/newfloppy.dd 
+   66  mount -t ext2 -o ro,loop newfloppy.dd /media/sf_digitalforensics/images/
+   67  mount -t ext2 -o ro,loop newfloppy.dd /mnt/analysis/
+   68  ls -rt
+   69  mount -t ext2 -o ro newfloppy.dd /mnt/analysis/
+   70  mount -t ext2 newfloppy.dd /mnt/analysis/
+   71  mount -t ext2 -o ro,exec newfloppy.dd /mnt/analysis/
+   72  tree
+   73  apt-get tree
+   74  apt-get install tree
+   75  ls
+   76  tree
+   77  cd /root/Downloads/practical.floppy.dd
+   78  cd /root/Downloads/
+   79  mount -t ext2 -o ro,exec newfloppy.dd /mnt/analysis/
+   80  mount -t ext2 -o ro,exec practical.floppy.dd /mnt/analysis/
+   81  cd
+   82  clear
+   83  ls 
+   84  ls /media/sf_digitalforensics/
+   85  ls /media/sf_digitalforensics/images/
+   86  ls /media/sf_digitalforensics/images/newfloppy.img 
+   87  mount -t ext2 -o ro,exec practical.floppy.dd /media/sf_digitalforensics/images/newfloppy.img 
+   88  mount -t ext2 -o ro,exec newfloppy.img /media/sf_digitalforensics/images/newfloppy.img 
+   89  clear
+   90  mount -t ext2 -o ro,exec newfloppy.dd /mnt/analysis/
+   91  cd /media/
+   92  ls
+   93  cd /media/sf_digitalforensics/images/
+   94  ls
+   95  mount -t ext2 -o ro,exec newfloppy.dd /media/sf_digitalforensics/images/
+   96  mount -t ext2 -o ro,exec newfloppy.img /media/sf_digitalforensics/images/
+   97  sha1sum /mnt/analysis/ > /root/evid/sha.disk1
+   98  sha1sum /mnt/analysis/ > /root/evid/sha.disk1
+   99  cd /mnt/analysis/
+  100  ls
+  101  cd
+  102  mkdir ~/evid
+  103  ls
+  104  cd evid
+  105  ls
+  106  cd
+  107  mkdir ~/evid
+  108  eoiufhgseoiugheaokhwqaoeuighwaourghwa
+  109  sl
+  110  sha1sum /media/sf_digitalforensics/images/newfloppy.img
+  111  sha1sum /media/sf_digitalforensics/images/images/newfloppy.img
+  112  sha1sum /media/sf_digitalforensics/images/newfloppy.img/
+  113  sha1sum /media/sf_digitalforensics/images/newfloppy.dd
+  114  sha1sum /media/sf_digitalforensics/images/
+  115  sha1sum /media/sf_digitalforensics/images/newfloppy.img
+  116  cd 
+  117  cd /root/evid/
+  118  ls
+  119  cd
+  120  mount -t ext2 -o ro,exec /media/sf_digitalforensics/images/newfloppy.img /mnt/analysis/
+  121  mount -t ext2 -o ro,exec /media/sf_digitalforensics/images/ /mnt/analysis/
+  122  ls
+  123  cd /media/sf_digitalforensics/images/
+  124  ls
+  125  mkdir -p /root/evid
+  126  ls
+  127  mkdir -p /mnt/analysis
+  128  mkdir -p /mnt/analysis/
+  129  mkdir -p /root/evid/
+  130  sha1sum /media/sf_digitalforensics/images/newfloppy.img 
+  131  mount -t ext2 -o ro,exec /media/sf_digitalforensics/images/newfloppy.img /mnt/analysis
+  132  cd /mnt/analysis
+  133  ls
+  134  cd
+  135  mkdir ~/evid
+  136  sha1sum /mnt/analysis/ > /root/evid/sha.disk1
+  137  mkdir~/evid
+  138  mkdir ~ /evid
+  139  find . -type f -exec sha1sum {} \; > ~/evid/sha.filelist
+  140  cat~ ~/evid/sha.filelist
+  141  cat ~~/evid/sha.filelist
+  142  cat ~ ~/evid/sha.filelist
+  143  sha1sum -c /root/evid/sha.filelist 
+  144  ls -al
+  145  ls -alR | less
+  146  ls -laiRtu > `/evid/access_file.list
+  147  ls -laiRtu > ~/evid/access_file.list
+  148  find . -type f -exec file {} \; > ~/evid/filetype.list
+  149  cat ~/evid/filetype.list
+  150  grep image ~/evid/filetype.list 
+  151  grep - o image ~/evid/filetype.list 
+  152  grep -o image ~/evid/filetype.list 
+  153  grep image ~/evid/filetype.list 
+  154  cd /evid/
+  155  pico searchterm.txt
+  156  grep -abif searchterm.txt /media/sf_digitalforensics/images/newfloppy.img 
+  157  grep -abif searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  158  pico searchterms.txt
+  159  grep -abif searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  160  cd
+  161  cd /evid/
+  162  cd evid
+  163  cd
+  164  cd evid/
+  165  pico searchterms.txt
+  166  grep -abif searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  167  cd evid/
+  168  pico searchterms.txt
+  169  grep -abif searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  170  ls /media/sf_digitalforensics/images/
+  171  grep -abif searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  172  clear
+  173  cd /mnt/analysis/
+  174  ls
+  175  cd
+  176  cd evid/
+  177  pico searchterms.txt
+  178  grep -abif /media/sf_digitalforensics/images/newfloppy.img 
+  179  grep -abif searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  180  grep -abif  searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  181  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+  182  grep -abif  searchterms.txt /media/sf_digitalforensics/images/newfloppy.img 
+  183  grep -abif  searchterms.txt /media/sf_digitalforensics/images/newfloppy.img pico searchterms.txt 
+  184  pico searchterms.txt 
+  185  grep -abif  searchterms.txt /media/sf_digitalforensics/images/newfloppy.img pico searchterms.txt 
+  186  mount huynh_floppy.img /mnt/floppy/
+  187  mount huynh_floppy.img 
+  188  cd
+  189  mount huynh_floppy.img /mnt/floppy/
+  190  ls /mnt/floppy/
+  191  cd /mnt/floppy/
+  192  ls
+  193  ls -rt
+  194  ls
+  195  cd
+  196  mount floppy.092016.img /mnt/floppy/
+  197  ls
+  198  mount huynh_floppy.img /mnt/floppy/
+  199  mount huynh_floppy.img
+  200  ls
+  201  ls /mnt/floppy/
+  202  umount /mnt/floppy 
+  203  mount huynh_floppy.img /mnt/floppy/
+  204  cf huynh_floppy.img 
+  205  cfdisk huynh_floppy.img 
+  206  mkfs.ext4 huynh_floppy.img 
+  207  mount huynh_floppy.img /mnt/floppy/
+  208  ls
+  209  ls huynh_floppy.img /mnt/floppy/
+  210  convert -background lightblue -fill blue -pointsize 48 label:"superstudent is great" "superstudent.png"
+  211  convert -background lightblue -fill green -pointsize 48 label:"superstudent" "super.png"
+  212  convert -background lightblue -fill magenta -pointsize 48 label:"lameo" "lame.png"
+  213  convert -background lightblue -fill yellow -pointsize 48 label:"I like digital forensics....not" "coolio.png"
+  214  convert -background blue -fill lightblue -pointsize 48 label:"hello" "hello.png"
+  215  convert -background blue -fill darkgreen -pointsize 48 label:"hello" "bye.png"
+  216  convert -background blue -fill crimson -pointsize 48 label:"whoops" "whoop.png"
+  217  convert -background blue -fill azure -pointsize 48 label:"hoops" "hoops.png"
+  218  convert -background blue -fill hotpink -pointsize 48 label:"pink" "pink.png"
+  219  convert -background blue -fill darkred -pointsize 48 label:"pink0o" "pinko.png"
+  220  ls
+  221  cd hello.png > huynh_floppy.img
+  222  cp hello.png > huynh_floppy.img 
+  223  cp hello.png > /mnt/floppy/huynh_floppy.img 
+  224  dp
+  225  cp
+  226  cp --help
+  227  umount huynh_floppy.img /mnt/floppy 
+  228  file floppy.092016.img 
+  229  file huynh_floppy.img 
+  230  ls /mnt/floppy/
+  231  ls
+  232  mount huynh_floppy.img /mnt/floppy/
+  233  ls /mnt/small
+  234  ls /mnt/small/
+  235  cp *png /mnt/small/
+  236  ls /mnt/small/
+  237  mount huynh_floppy.img /mnt/small/
+  238  unmount floppy.092016.img 
+  239  umount floppy.092016.img 
+  240  umount huynh_floppy.img
+  241  mount huynh_floppy.img /mnt/small/
+  242  mount huynh_floppy.img /mnt/floppy/
+  243  umount huynh_floppy.img
+  244  ls /mnt/small
+  245  umount /mnt/small/
+  246  umount /mnt/small
+  247  mount huynh_floppy.img /mnt/small/
+  248  cd /sf_Downloads
+  249  cd /sf_Downloads/
+  250  cd Downloads/
+  251  xxd Renard_floppy.img |grep "ffd8"|grep -v "0000 0000"
+  252  xxd assignment.jpeg |tail
+  253  pico lookforme
+  254  grep -abif lookforme Renard_floppy.img
+  255  history
+  256  grep -abif "JFIF" lookforme Renard_floppy.img
+  257  grep -abi "JFIF" lookforme Renard_floppy.img
+  258  xxd Renard_floppy.img |grep JFIF
+  259  aptitude install bc
+  260  cd Downloads/
+  261  xxd Austin.img |grep JFIF
+  262  xxd Austin.img |grep ffd9
+  263  xxd Austin.img |grep ff ?d9
+  264  xxd Austin.img |grep "ff ?d9"
+  265  xxd Austin.img |grep ffd9 |grep -v "0000 0000"
+  266  xxd Austin.img |grep JFIF |grep -v "0000 0000"
+  267  xxd Austin.img |egrep "ff ?d9" |grep -v "0000 0000"
+  268  cd
+  269  xxd huynh_N_floppy.img |grep JFIF
+  270  ls
+  271  xxd huynh_N_floppy.img |grep "ffd8"
+  272  xxd Austin.img |grep JFIF
+  273  cd Downloads/
+  274  xxd Austin.img |grep JFIF
+  275  xxd Austin.img |grep "ffd9" |grep -v "0000 0000"
+  276  xxd Austin.img |grep "ffd9" 
+  277  xxd Austin.img |grep -i "ffd9" 
+  278  xxd Austin.img |grep -i "ffd8" 
+  279  dd if=Austin.img offset=8653824 count=1024 of=austin1.jpg
+  280  dd if=Austin.img offset=8653824 bs=1 count=1024 of=austin1.jpg
+  281  man dd
+  282  dd if=Austin.img skip=8653824 bs=1 count=1024 of=austin1.jpg
+  283  display austin1.jpg 
+  284  display austin1.jpg  
+  285  xxd Austin.img |grep -i "ffd8"|grep -v "0000 0000" 
+  286  dd if=Austin.img skip=8653824 bs=1 count=10240 of=austin1.jpg
+  287  display austin1.jpg  
+  288  xxd austin1.jpg 
+  289  xxd austin1.jpg |less
+  290  ls
+  291  xxd Doria_floppy.img |grep ffd8
+  292  xxd Doria_floppy.img |grep ffd8|grep -v "0000 0000"
+  293  xxd Doria_floppy.img |grep ffd8
+  294  xxd Doria_floppy.img |grep "ffd8"
+  295  xxd Doria_floppy.img |grep "ffd9"
+  296  ls
+  297  xxd rangel_floppy.img |grep ffd8
+  298  xxd rangel_floppy.img |grep ffd8|grep -v "0000 0000"
+  299  xxd rangel_floppy.img |grep ffd8
+  300  xxd rangel_floppy.img |grep ffd8|grep -v "0000 0000"
+  301  dd if=rangel_floppy.img skip=8653824 bs=1 count=6144 of=rangel1.jpg
+  302  display rangel1.jpg 
+  303  cp rangel1.jpg > sf_Downloads
+  304  cp rangel1.jpg > media/sf_Downloads
+  305  cp rangel1.jpg > /media/sf_Downloads
+  306  cp rangel1.jpg > /media/sf_Downloads/
+  307  cp rangel1.jpg > /media/sf_Downloads/pics/
+  308  cp rangel1.jpg > /media/sf_Downloads/pics
+  309  cd
+  310  cp rangel1.jpg > /media/sf_Downloads/pics
+  311  cp rangel1.jpg > /media/sf_Downloads/pics.jpg
+  312  cd Downloads/
+  313  cp rangel1.jpg > /media/sf_Downloads/pics.jpg
+  314  ls
+  315  cp rangel1.jpg > /media/sf_Downloads/
+  316  xxd rangel_floppy.img |grep ffd8|grep -v "0000 0000"
+  317  dd if=rangel_floppy.img skip=8659968 bs=1 count=13312 of=rangel2.jpg
+  318  display rangel2.jpg 
+  319  cp rangel2.jpg > rangle.jpg /media/sf_Downloads/
+  320  xxd rangel_floppy.img |grep ffd8|grep -v "0000 0000"
+  321  xxd huynh_N_ |grep JFIF
+  322  ls
+  323  xdgjkgflasdfgkahgjlas
+  324  xdg-open WARNINGHELPWANTED 
+  325  oowriter -pt pdf WARNINGHELPWANTED
+  326  mount
+  327  ls
+  328  mount suspiciousdisk.img 
+  329  mount suspiciousdisk.img /home/
+  330  mount
+  331  umount suspiciousdisk.img
+  332  mount
+  333  mount suspiciousdisk.img /mnt/analysis/
+  334  ls
+  335  umount suspiciousdisk.img
+  336  umount suspiciousdisk.img /mnt/analysis/
+  337  ls
+  338  cd Downloads/
+  339  ls
+  340  cp Why Not_.xlsx suspiciousdisk.img 
+  341  cp Why Not_.xlsx suspiciousdisk.img /home
+  342  cp Why Not_.xlsx suspiciousdisk.img 
+  343  cp Why Not_.xlsx /home/suspiciousdisk.img 
+  344  history 
+  345  cp Why Not_.xlsx > suspiciousdisk.img 
+  346  cp /home/Downloads/Why Not_.xlsx > suspiciousdisk.img 
+  347  cp Why Not_.xlsx > suspiciousdisk.img 
+  348  cp Why Not_.xlsx suspiciousdisk.img 
+  349  cp Why Not_.xlsx /home/suspiciousdisk.img 
+  350  cp Why Not_.xlsx suspiciousdisk.img 
+  351  cd
+  352  cp Why Not_.xlsx suspiciousdisk.img 
+  353  ls
+  354  cp Why Not_.xlsx >> suspiciousdisk.img 
+  355  cd Downloads/
+  356  cp Why Not_.xlsx >> suspiciousdisk.img 
+  357  ls
+  358  cp Why Not_.xlsx >> suspiciousdisk.img 
+  359  cp Why Not_.xlsx > suspiciousdisk.img 
+  360  cp WhyNot_.xlsx > suspiciousdisk.img 
+  361  cp WhyNot_.xlsx suspiciousdisk.img 
+  362  cp Why Not_.xlsx suspiciousdisk.img 
+  363  cp Why Not_.xlsx > suspiciousdisk.img 
+  364  cp Why Not_.xlsx suspiciousdisk.img 
+  365  mount suspiciousdisk.img /mnt/analysis/
+  366  cd
+  367  mount suspiciousdisk.img /mnt/analysis/
+  368  ls
+  369  ls /home
+  370  umount /root/suspiciousdisk.img 
+  371  ls /home
+  372  umount /root/suspiciousdisk.img 
+  373   /root/suspiciousdisk.img 
+  374  umount /root/suspiciousdisk.img 
+  375  clear
+  376  ls /home/ 
+  377  mount
+  378  umount /root/suspiciousdisk.img /home
+  379  umount /root/suspiciousdisk.img /mnt/analysis 
+  380  umount /root/suspiciousdisk.img /home
+  381  umount /root/suspiciousdisk.img 
+  382  mount
+  383  ls /home
+  384  ls
+  385  ls /root
+  386  mount
+  387  ls /home
+  388  wget http://d22.ninja/digitalforensics_1617/resources/2013-02-09-wheezy-raspbian.zip
+  389  ls
+  390  uzip 2013-02-09-wheezy-raspbian.zip 
+  391  unzip 2
+  392  unzip 2013-02-09-wheezy-raspbian.zip 
+  393  ls
+  394  ls 2013-02-09-wheezy-raspbian.img 
+  395  mount 2013-02-09-wheezy-raspbian.img 
+  396  ls -rt 2013-02-09-wheezy-raspbian.
+  397* umount 2013-
+  398  umount 2013-02-09-wheezy-raspbian.img 
+  399  fdisk -l 2013-02-09-wheezy-raspbian.img
+  400  history > huynh_7_commandhistory_102016.txt
+  401  ls
+  402  cat huynh_7_commandhistory_102016.txt 
+  403  fdisk -l 2013-02-09-wheezy-raspbian.img
+  404  mount -v -o offset=458752 -t vfat 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  405  cd /mnt
+  406  mkdir SOMEDIRYOUMADE1
+  407  cd
+  408  mount -v -o offset=458752 -t vfat 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  409  mount -v -o offset=458752 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  410  mount -v -o offset=458752 -t vfat W95 FAT32 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  411  mount -v -o offset=458752 -t vfat W95 FAT32 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  412  mount -v -o offset=458752 -t vfat 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  413  mount -v -o offset=458752 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  414  mount -v -o offset=458752 -t W95 FAT35 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  415  mount -v -o offset=458752 -t vfat 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  416  fdisk -l 2013-02-09-wheezy-raspbian.img
+  417  mount -v -o offset=4194304 -t vfat 2013-02-09-wheezy-raspbian.img1 /mnt/SOMEDIRYOUMADE1
+  418  mount -v -o offset=4194304 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  419  ls /mnt/SOMEDIRYOUMADE1/
+  420  cd /mnt/
+  421  mkdir SOMEDIRYOUMADE2
+  422  cd
+  423  mount -v -o offset=62914560 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE2
+  424  mount -v -o offset=62914560 -t linux 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE2
+  425  mount -v -o offset=62914560 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE2
+  426  mount -v -o offset=62914560 -t ext2 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE2
+  427  mount -v -o  2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE2
+  428  mount -v -o offset=62914560  2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE2
+  429  ls /mnt/SOMEDIRYOUMADE2/
+  430  history huynh_7_commandhistory_102016.txt
+  431  history > huynh_7_commandhistory_102016.txt
