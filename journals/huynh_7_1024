@@ -1,0 +1,14 @@
+What does it say next to Units? It says "sectors of 1 * 512 = 512"
+
+How big is each sector? It's 512 bytes big
+
+What are the start blocks for the partitions? The start blocks are 8192 and 
+122880
+
+4194204 for first
+62914560 for second
+
+I see files in the first partitian and the linux system in the second with 
+directories like user.
+
+ 
