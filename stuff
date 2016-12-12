@@ -1,0 +1,30 @@
+Look at your command history.
+Make a list of the major 4 overarching topics you predict will be on the semester exam. 
+EXPLAIN why these are the 4 overarching topics.
+Using grep and sed, mounting disk images, recovering deleted files, finding the file and locations are the 4
+overarching topics. All of these are topics coincide with recovering and looking at deleted files
+Make a list of twenty commands and briefly describe (in your own words) what each does
+find . -iname "Message.txt" -exec cat {} \; |grep "spreadsheet" - finds the word, spreadsheet, in every Message.txt it can find
+for dir in $(ls Mess*); do cat "$dir\/InternetHeaders.txt"; done - opens every InternetHeaders.txt in the Message000* directory
+grep -r "spreadsheet" /home/example2.pst.export/Top\ of\ Personal\ Folders/Inbox - It finds the line that has 
+  the word spreadsheet in every folder in the directory /home/example2.pst.export/Top\ of\ Personal\ Folders/Inbox
+icat -o 63 -i raw /mnt/ewf/nps-2008-jean.dd 24012 > example3.pst - sends the output of the raw image at the location 24012
+  to a pst file
+fls -r -i ewf -o 63 /usr/share/digitalforensics/images/nps-2008-jean.E01 |grep .xls - looks for .xls files in the disk image
+  nps-2008-jean.E01
+fdisk -l usr/share/digitalforensics/images/df_1114.img - lists the properties of a disk image or partition
+cd home/ - takes you to the home directory
+cd - - sends you to previous directory
+espeak -v+croak "VOTE FOR DONALD TRUMP OUR SAVIOR" - makes use of the espeak program's voice  to say vote donald trump
+mkdir assignments - makes a new directory named assignments
+cat file.txt - opens the file in terminal
+man fls - looks at the manual for the command fls
+mmls -i ewf nps-2008-jean.E01 
+
+
+
+
+
+
+
+It is strongly recommended that you work (relatively) independently as duplicate text is penalized. [Overlapping commands are to be expected - but overlapping explanations are not.]
